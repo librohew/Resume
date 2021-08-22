@@ -1,0 +1,5 @@
+# Matthew Li's Personal Website
+
+## About Me
+
+Hi, my name is Matthew Li, and I am a Computer Science student in the College at the University of Chicago. In my free time, I like to study math, watch programming livestreams, and ride my stationary bicycle. 
